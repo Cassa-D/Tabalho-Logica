@@ -13,7 +13,7 @@ utilizacoes: list = (
     "DS",
     "Image processing"
 )
-dificuldade: list = ("facil", "medio", "dificil", "N/A")
+dificuldade: list = ("Facil", "Medio", "Dificil", "N/A")
 paradigma: list = (
     "generica",
     "POO",
@@ -27,5 +27,5 @@ paradigma: list = (
     "dinamico",
     "reciproco"
 )
-seguranca: list = ("alta", "media", "baixa", "N/A")
-velocidade: list = ("alta", "media", "baixa", "N/A")
+seguranca: list = ("Alta", "Media", "Baixa", "N/A")
+velocidade: list = ("Alta", "Media", "Baixa", "N/A")
